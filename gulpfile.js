@@ -35,18 +35,18 @@ const data = {
       children: [
         {
           name: 'Twitter',
-          link: 'https://twitter.com/w_zce',
+          link: 'https://twitter.com/w_harl',
         },
         {
           name: 'About',
-          link: 'https://weibo.com/zceme',
+          link: 'https://weibo.com/harlme',
         },
         {
           name: 'divider',
         },
         {
           name: 'About',
-          link: 'https://github.com/zce',
+          link: 'https://github.com/harl',
         },
       ],
     },
@@ -191,18 +191,18 @@ module.exports = {
 //       children: [
 //         {
 //           name: 'Twitter',
-//           link: 'https://twitter.com/w_zce'
+//           link: 'https://twitter.com/w_harl'
 //         },
 //         {
 //           name: 'About',
-//           link: 'https://weibo.com/zceme'
+//           link: 'https://weibo.com/harlme'
 //         },
 //         {
 //           name: 'divider'
 //         },
 //         {
 //           name: 'About',
-//           link: 'https://github.com/zce'
+//           link: 'https://github.com/harl'
 //         }
 //       ]
 //     }

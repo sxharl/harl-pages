@@ -1,9 +1,9 @@
 {
-  "name": "zce-gulp-demo",
+  "name": "harl-gulp-demo",
   "version": "0.1.0",
   "main": "index.js",
-  "repository": "https://github.com/zce/zce-gulp-demo.git",
-  "author": "zce <w@zce.me> (https://zce.me)",
+  "repository": "https://github.com/harl/harl-gulp-demo.git",
+  "author": "harl <w@harl.me> (https://harl.me)",
   "license": "MIT",
   "scripts": {
     "clean": "gulp clean",
